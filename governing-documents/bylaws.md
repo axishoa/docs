@@ -1,8 +1,8 @@
 ---
 description: >-
-  This is a copy of the official HOA bylaws, provided for the convenience of the
-  membership.  Where discrepancies exist, the official document on BuildingLink
-  will prevail.
+  This is a copy of the official HOA bylaws, including amendments, provided for
+  the convenience of the membership.  Where discrepancies exist, the official
+  documents on BuildingLink will prevail.
 ---
 
 # Bylaws
