@@ -506,3 +506,7 @@ The Declarant shall have no control over the Association's ability to decide whe
 
 \(c\) A cause of action under Section 1363.03 with respect to access to association resources by a candidate or member advocating a point of view, the receipt of a ballot by a member, or the counting, tabulation, or reporting of, or access to, ballots for inspection and review after tabulation may be brought in small claims court if the amount of the demand does not exceed the jurisdiction of that court.
 
+{% file src="../.gitbook/assets/1st\_bylaw\_\_amendment\_-\_mar\_2019\_signed.pdf" caption="Signed copy of First Amendment to Bylaws" %}
+
+{% file src="../.gitbook/assets/060\_bylaws.pdf" caption="Bylaws of Axis Homeowners Association \(unamended\)" %}
+
