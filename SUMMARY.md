@@ -6,6 +6,10 @@
 
 * [Bylaws](governing-documents/bylaws.md)
 
+## Rules and Policies
+
+* [Introduction](rules-and-policies/introduction.md)
+
 ## External Links
 
 ---
