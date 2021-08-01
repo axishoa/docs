@@ -4,6 +4,7 @@
 
 ## Governing Documents
 
+* [Articles of Incorporation](governing-documents/articles-of-incorporation.md)
 * [Bylaws](governing-documents/bylaws.md)
 * [Association Rules](governing-documents/rules/README.md)
   * [Introduction](governing-documents/rules/introduction.md)
